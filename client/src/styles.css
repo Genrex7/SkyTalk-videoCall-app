@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-image: radial-gradient(
+		circle,
+		#2b92cb,
+		#0083d1,
+		#0071d4,
+		#005ed3,
+		#0047cd,
+		#3f33b1,
+		#4f1e94,
+		#540079,
+		#4e004f,
+		#3c012e,
+		#250617,
+		#000000
+	);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
